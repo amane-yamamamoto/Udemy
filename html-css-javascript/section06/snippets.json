@@ -9,7 +9,7 @@
     },
     "css": {
         "snippets": {
-            "dark": "background-color: #000;\n color: #fff;"
+            "dark": "background-color: #000;\ncolor: #fff;"
         }
     }
 }
