@@ -1,0 +1,29 @@
+p {
+    m
+    margin: ;
+
+    m:a
+    margin: auto;
+
+    bg
+    background: #000;
+
+    m10
+    margin: 10px;
+
+    m1.5
+    margin: 1.5em;
+
+    m10p
+    margin: 10%;
+
+    m10px20px30px40px
+    margin: 10px 20px 30px 40px;
+
+    c
+    color: #000;
+    color: #fcfcfc;
+
+    m10e:!
+    margin: 10em !important;
+}
